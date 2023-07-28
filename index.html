@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora - Stardew Valley</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="BG">
+        <img class="BG" src="assets/BG.jpg"/>
+    </div>
+
+    <div class="calculadoraCSS">
+        <div class="galinha1">
+            <img class="galinha" src="assets/galinha.png">
+        </div>
+        <div class="calculadora1">
+            <h2>Calculadora de Lavouras - Stardew Valley</h2>
+            <label for="lavoura">Lavoura:</label>
+            <select id="lavoura">
+                <option value="chirivia">Chirívia</option>
+                <option value="batata">Batata</option>
+                <option value="couveflor">Couve-Flor</option>
+                <option value="melao">Melão</option>
+                <option value="milho">Milho</option>
+            </select>
+            <label for="quantidade">Quantidade:</label>
+            <input type="number" id="quantidade" min="1">
+            <button onclick="calcularGanhos()">Calcular</button>
+            <div id="result"></div>
+
+            <script src="script.js"></script>
+        </div>
+    </div>
+    
+    <div class="catalogo">
+        <img class="parsnip" src="assets/Parsnip.png">
+        <img class="potato" src="assets/Potato.png">
+        <img class="cauli" src="assets/Cauliflower.png">
+        <img class="melon" src="assets/Melon.png">
+        <img class="corn" src="assets/Corn.png">
+    </div>
+
+</body>
+</html>
