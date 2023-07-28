@@ -1,10 +1,4 @@
 ## :clipboard: Sobre o Projeto
-Jogo da velha desenvolvido através dos ensinamentos do treinamento Programador BR.
-
-## :computer: Tecnologias utilizadas
-
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-- HTML
-- CSS
-- JavaScript
+Calculadora/Planner simples desenvolvida para planejar lucros dentro do jogo Stardew Valley.<br> 
+Este é meu primeiro projeto e tem como finalidade colocar em prática os conhecimentos adquiridos até a presente data.<br>
+Pretendo ir atualizando e implementando os conhecimentos que eu for adquirindo.
