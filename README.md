@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="img" src="./assets/img.png" width="100%">
+</p>
+
 <h2 align="center">
 Clique <a href="https://pinnaleo.github.io/calculadoraStardewValley/">AQUI</a> para acessar o Planner.
 </h2>
